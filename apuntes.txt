@@ -1,0 +1,16 @@
+Instalamos zxpy:
+
+pip install zxpy
+
+Añadimos el directorio binario al PATH:
+
+export PATH=$PATH:/home/usuario/.local/bin
+
+Comprueba la instalación:
+Verifica si zxpy está instalado correctamente ejecutando:
+
+which zxpy
+
+Para ejecutar:
+zxpy ejemplo1.py
+
